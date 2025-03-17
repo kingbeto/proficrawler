@@ -1,0 +1,27 @@
+Create an effective Spanish product description for Mercado Libre based on the following Wiha tool information.
+Focus on ACCURACY first - make sure you correctly describe this specific product's features and uses.
+
+PRODUCT INFORMATION (JSON format):
+{product_json}
+
+ENGLISH DESCRIPTION (for reference):
+{text}
+
+Guidelines:
+1. Accurately describe THIS specific product - its exact features, specifications, and intended uses
+2. Highlight the practical benefits of THIS specific tool
+3. Include relevant application cases where this tool would be used
+4. If it's a set, clearly list the items included
+5. Maintain a professional marketing tone without exaggeration
+6. Keep technical measurements and specifications accurate
+7. OUTPUT MUST BE IN PLAIN TEXT format (no markdown, HTML, or other formatting)
+8. IMPORTANT: Convert any weight measurements from pounds (lb) to kilograms (kg). For example, "1.5 lb" should be converted to "0.68 kg"
+
+The description should be well-structured with:
+- Clear section titles (like "Características:", "Aplicaciones:", etc.)
+- Use simple dash or bullet symbol for lists
+- Plain text spacing for readability
+- No markdown, HTML, or special formatting characters
+- All weight measurements in kilograms (kg), not pounds (lb)
+
+For example, instead of using markdown headings like "## Características", simply use "Características:" with line breaks. 
